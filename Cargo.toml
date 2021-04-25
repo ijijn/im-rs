@@ -36,7 +36,7 @@ version_check = "0.9"
 debug = []
 
 [dependencies]
-typenum = "1.12"
+typenum = "1.13"
 bitmaps = "2"
 sized-chunks = "0.6"
 rand_core = "0.6.2"
